@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font: 15px 'Open Sans', Tahoma;
+    color: #666666;
+}
+
+.main{
+    margin: 10px 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+h3{
+    font-size: 24px;https://youtu.be/Q-nHDnncBjo
+
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+.section{
+    width: 40%;
+}
+
+label{
+    font-size: 18px;
+}
+
